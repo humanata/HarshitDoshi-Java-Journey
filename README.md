@@ -6,3 +6,10 @@
 2. Lombok
 3. JPA
 4. Hibernate
+
+## Tools that I am using
+
+- VSCode (tried IntelliJ IDEA, not my cup of Java)
+- Spring Initializer (extension on VSCode)
+- Java Development Kit v17 (using SDKMAN)
+- Gradle (using SDKMAN) (No idea why I chose this over Maven, just liked their website better)
