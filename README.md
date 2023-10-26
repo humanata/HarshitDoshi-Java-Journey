@@ -6,6 +6,8 @@
 2. Lombok
 3. JPA
 4. Hibernate
+5. Mockito
+6. JUnit
 
 ## Tools that I am using
 
